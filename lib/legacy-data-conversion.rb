@@ -1,5 +1,3 @@
-#hash = { 1 = ["a"]}
-
 def data_convert(hash)
 
 	new_hash = {}
@@ -11,4 +9,4 @@ def data_convert(hash)
 	end	
 	new_hash
 end
-data_convert({1 => ["a"]})
+
